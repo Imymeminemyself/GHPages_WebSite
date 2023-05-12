@@ -12,28 +12,31 @@ permalink: https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3
 ---
 
 
+# 猫 😼 ねこ 🐱 neko 😾 貓 😸 māo
+
+### neko is cat. cat is māo. māo is neko.
+[CATS](https://www.google.com/search?q=%E7%8C%AB&source=lnms&tbm=isch&sa=X&ved=2ahUKEwji3I7Gw-_-AhVFDt4KHW8-BPQQ_AUoAXoECAEQAw&biw=1280&bih=601&dpr=1.5)
+## myaomyaomyaomyaomyaomyaomyao        
+
+
+
+
 # 猫
-## ネコ
-### ねこ
-#### neko
-##### māo
+
+###### 
 
 
-###### neko is cat. cat is māo. māo is neko.
 
-改行は、行末に半角スペースを2個いれる
-次の行
 
-[リンク](https://www.google.co.jp/)  
-[rink](https://www.google.com/search?q=%E7%8C%AB&source=lnms&tbm=isch&sa=X&ved=2ahUKEwji3I7Gw-_-AhVFDt4KHW8-BPQQ_AUoAXoECAEQAw&biw=1280&bih=601&dpr=1.5)
+
 
 **熊貓**
 
 hmm... they are māo?
 
 
-> 引用
->> 多重引用
+> she is cat. cat is she. WHY?!
+>> I do not know!!
 
 
 - 箇条書きリスト
